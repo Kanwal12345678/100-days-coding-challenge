@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //making a list of my favorite places
 let favPlaces = ["Do darya", "Beach", "Parks", "Resorts"];
 //printing the list of favPlaces

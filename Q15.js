@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 let GuestLIst = ["Billgates", "Ameen alam", "Bilal khan", "Areeba memon"];
 let WhoDontCome = GuestLIst[3];
 console.log(WhoDontCome, "cant make it");

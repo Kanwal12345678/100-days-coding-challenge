@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // created a guest list array //
 let guestLIst = ["Billgates", "Ameen alam", "Bilal khan", "Areeba memon"];
 // variables for those who dont come //

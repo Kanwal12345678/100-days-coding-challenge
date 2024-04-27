@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // making arrays of countries and print its original order //
 let countriesToVisit = ["Phalestine", "Saudi Arabia", "Aghanistan", "China"];
 console.log("Original Order:", countriesToVisit);
